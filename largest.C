@@ -12,9 +12,9 @@ if((p>s)&&(p>m))
 {
 printf("\n the largest number is %d",p);
 }
-if(m>p)&&(m>s))
+if((m>p)&&(m>s))
 {
 printf("\n the largest number is %d",m);
 }
 return 0;
-]
+}
